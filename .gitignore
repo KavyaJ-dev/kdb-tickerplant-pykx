@@ -1,0 +1,15 @@
+pykx-env/
+
+# python cache files
+__pycache__/
+*.pyc
+# license files: never publish these
+kc.lic
+k4.lic
+*.lic
+# macOS clutter and local editor settings
+.DS_Store
+.vscode/
+# logs and any database folders we create later
+*.log
+db/
